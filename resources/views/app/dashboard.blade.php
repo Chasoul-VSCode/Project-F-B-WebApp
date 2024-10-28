@@ -166,24 +166,14 @@
                         <span>Dashboard</span>
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route('orders') }}">
-                        <i class="bi bi-cart3"></i>
-                        <span>Orders</span>
-                    </a>
-                </li>
+              
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('products') }}">
                         <i class="bi bi-box"></i>
                         <span>Products</span>
                     </a>
                 </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="{{ route('customers') }}">
-                        <i class="bi bi-people"></i>
-                        <span>Customers</span>
-                    </a>
-                </li>
+              
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('reports') }}">
                         <i class="bi bi-file-text"></i>
